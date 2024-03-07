@@ -1,2 +1,3 @@
 # Trishala
-This is my first repository.
+This is my first GIT Repository.
+Author- Trishala
